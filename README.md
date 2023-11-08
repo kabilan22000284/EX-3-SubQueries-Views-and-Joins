@@ -1,5 +1,7 @@
 # EX 3:SubQueries, Views and Joins
-
+## DATE:18/08/23
+## AIM
+to create views and joins in sql
 ## Create employee Table
 ```
 CREATE TABLE EMP (EMPNO NUMBER(4) PRIMARY KEY,ENAME VARCHAR2(10),JOB VARCHAR2(9),MGR NUMBER(4),HIREDATE DATE,SAL NUMBER(7,2),COMM NUMBER(7,2),DEPTNO NUMBER(2));
